@@ -12,6 +12,10 @@ public class Git{
 
         System.out.println("Esta es una prueba de git");
 
+        Prueba = scnLeer.nextLine();
+        System.out.println(Prueba);
+        
+
     }
 
 }
