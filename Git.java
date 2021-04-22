@@ -15,7 +15,9 @@ public class Git{
         Prueba = scnLeer.nextLine();
         System.out.println(Prueba);
         
-
+        for(int i=0;i<3;i++){
+            System.out.println("Me repito " + i + " veces");
+        }
     }
 
 }
